@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 See on file A.txt
+=======
+Siin on testing branchi file A!
+>>>>>>> testing
