@@ -1,4 +1,5 @@
 Change in file.
+TEGIN SIIA UUE TEKSTI~!
 Mingi suva tekst siin jälle, testimise jaoks.
 
 
