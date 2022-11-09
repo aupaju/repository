@@ -1,7 +1,7 @@
-Täiesti uus test Adding new, experimental~~~!!!
+Change in file.
+TEGIN SIIA UUE TEKSTI~!
+Mingi suva tekst siin jälle, testimise jaoks.
 
 
 
-
-
-
+Test!!!!
